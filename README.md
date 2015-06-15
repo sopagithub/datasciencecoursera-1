@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This repo is fot the Coursera course "The Data Scientist’s Toolbox" peer assessment assignment.
+This repo is for the Coursera course "The Data Scientist’s Toolbox" peer assessment assignment.
